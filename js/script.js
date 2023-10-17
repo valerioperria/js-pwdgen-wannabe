@@ -16,7 +16,7 @@ console.log(color, typeof color);
 
 // Logica programma
 // password
-const password = name + lastName + color ;
+const password = name + lastName + color;
 console.log(password, typeof password);
 
 const message = `La tua password è: ${password}21`;
